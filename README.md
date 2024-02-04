@@ -6,7 +6,9 @@ You can send email with API on url:
 method:
   POST
 
+
 data:
+```markup
   {
       "host" : "*************@gmail.com",
       "password" : "*************",
@@ -14,4 +16,5 @@ data:
       "subject" : "subject",
       "content" : "content"
   }
+```
   
